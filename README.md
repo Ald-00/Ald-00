@@ -16,7 +16,7 @@ I'm currently working on:
 - Expanding my knownledge on renewable energy sources
 - Using data analysis to improve subsea cable's portfolio cost efficiency of a cable company
 - Improving my coding skills
-- Learning how to us ML to create predictive models
+- Learning how to use ML to create predictive models
 - Learning to develope digital twins
 
 A bit on myself:
